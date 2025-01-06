@@ -95,7 +95,7 @@ section{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background-image: url(img/red.png);
+    background-image: url(red.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
